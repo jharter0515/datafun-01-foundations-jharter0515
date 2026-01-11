@@ -110,7 +110,7 @@ If a command fails, verify:
 Hint: if you run `ls` in the terminal, you should see files including `pyproject.toml`, `README.md`, and `uv.lock`.
 Once these scripts run, that is a major milestone for Project 1. Celebrate!
 
-Run checks and tests (as available):
+Run Python checks and tests (as available):
 
 ```shell
 uv run ruff format .
