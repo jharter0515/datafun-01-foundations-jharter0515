@@ -1,0 +1,25 @@
+2026-01-14 21:20:22 | INFO | P01 | ==============
+2026-01-14 21:20:22 | INFO | P01 | === RUN START ===
+2026-01-14 21:20:22 | INFO | P01 | project=Foundations of Professional Python
+2026-01-14 21:20:22 | INFO | P01 | repo_dir=datafun-01-foundations
+2026-01-14 21:20:22 | INFO | P01 | python=3.14.2
+2026-01-14 21:20:23 | INFO | P01 | os=Windows 11
+2026-01-14 21:20:23 | INFO | P01 | shell=powershell
+2026-01-14 21:20:23 | INFO | P01 | cwd=.
+2026-01-14 21:20:23 | INFO | P01 | github_actions=False
+2026-01-14 21:20:23 | INFO | P01 | ==============
+2026-01-14 21:20:23 | INFO | P01 | START main()...............
+2026-01-14 21:20:23 | INFO | P01 | Course Name: Data Fundamentals
+Student Count: 24
+Average Score: 88.6
+Course Active: True
+Topics Covered: Python, Git, uv, Project Setup
+2026-01-14 21:20:23 | INFO | P01 | Descriptive Statistics for Snowfall (inches):
+Total snowfall: 22.50 inches
+Count of measurements: 5
+Minimum snowfall: 2.50 inches
+Maximum snowfall: 6.50 inches
+Average snowfall: 4.50 inches
+Standard deviation: 1.58 inches
+
+2026-01-14 21:20:23 | INFO | P01 | END main()...............
